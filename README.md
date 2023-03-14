@@ -1,10 +1,10 @@
-# Android Project 3 - *Name of App Here*
+# Android Project 3 - *Flixter*
 
-Submitted by: **Your Name Here**
+Submitted by: **Mikyas Kebede**
 
 **Flixter app** is a movie browsing app that allows users to browse movies currently playing in theaters.
 
-Time spent: **4** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
