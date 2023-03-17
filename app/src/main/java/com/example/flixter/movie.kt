@@ -1,3 +1,24 @@
 package com.example.flixter
 
-data class movie(var image: String, var title:String, var overview:String)
+
+import com.google.gson.annotations.SerializedName
+
+
+class movie {
+
+    @JvmField
+    @SerializedName("title")
+    var title: String? = null
+
+    @JvmField
+    @SerializedName("overview")
+    var overview: String? = null
+
+    @SerializedName("poster_path")
+    var movieImageUrl: String? = null
+
+}
+
+
+
+
